@@ -1,0 +1,31 @@
+body
+{
+    background-image: url("./image2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+button
+{
+    background-color: green;
+    padding: 6px;
+    border-radius: 6px;
+}
+
+
+input[type=text],input[type=number]
+{
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        box-sizing: border-box;
+}
+h1
+{
+    margin-top: auto;
+    padding-top: 4px;
+    
+}
+
